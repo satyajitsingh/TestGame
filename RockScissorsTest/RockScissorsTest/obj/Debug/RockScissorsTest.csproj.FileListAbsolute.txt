@@ -1,0 +1,9 @@
+c:\users\ssingh358\documents\visual studio 2015\Projects\RockScissorsTest\RockScissorsTest\bin\Debug\RockScissorsTest.exe.config
+c:\users\ssingh358\documents\visual studio 2015\Projects\RockScissorsTest\RockScissorsTest\bin\Debug\RockScissorsTest.exe
+c:\users\ssingh358\documents\visual studio 2015\Projects\RockScissorsTest\RockScissorsTest\bin\Debug\RockScissorsTest.pdb
+c:\users\ssingh358\documents\visual studio 2015\Projects\RockScissorsTest\RockScissorsTest\obj\Debug\RockScissorsTest.csprojResolveAssemblyReference.cache
+c:\users\ssingh358\documents\visual studio 2015\Projects\RockScissorsTest\RockScissorsTest\obj\Debug\RockScissorsTest.Form1.resources
+c:\users\ssingh358\documents\visual studio 2015\Projects\RockScissorsTest\RockScissorsTest\obj\Debug\RockScissorsTest.Properties.Resources.resources
+c:\users\ssingh358\documents\visual studio 2015\Projects\RockScissorsTest\RockScissorsTest\obj\Debug\RockScissorsTest.csproj.GenerateResource.Cache
+c:\users\ssingh358\documents\visual studio 2015\Projects\RockScissorsTest\RockScissorsTest\obj\Debug\RockScissorsTest.exe
+c:\users\ssingh358\documents\visual studio 2015\Projects\RockScissorsTest\RockScissorsTest\obj\Debug\RockScissorsTest.pdb
